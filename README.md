@@ -27,7 +27,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Description
  
-This is challenge 10 of the bootcamp. I was tasked with creating an SVG logo generator using node.js, javascript, and jest. The user will be able to open the terminal and input 'node index' and then will be met with a prompt of questions (logo text, text color, logo shape, shape color). Once the user finishes all the prompts, they will be met with a log "Success! Your SVG file was generated in the output folder." unless there is an error. The user will then see the "logo.svg" generate inside the "output" folder. When opened in a browser, the logo svg image will generate following the parameters inputted by user. 
+I was tasked with creating an SVG logo generator using node.js, javascript, and jest. The user will be able to open the terminal and input 'node index' and then will be met with a prompt of questions (logo text, text color, logo shape, shape color). Once the user finishes all the prompts, they will be met with a log "Success! Your SVG file was generated in the output folder." unless there is an error. The user will then see the "logo.svg" generated inside the "output" folder. When opened in a browser, the logo SVG image will generate following the parameters inputted by the user. 
 
 ## Usage
 
